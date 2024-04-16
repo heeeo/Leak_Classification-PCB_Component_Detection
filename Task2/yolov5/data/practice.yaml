@@ -1,0 +1,6 @@
+train: /content/gdrive/MyDrive/AIFactory/Task2/preprocessed_data/train/
+val: /content/gdrive/MyDrive/AIFactory/Task2/preprocessed_data/valid/
+
+# Classes
+nc: 3
+names: ['ic', 'capacitor', 'resistor']
